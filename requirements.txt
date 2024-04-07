@@ -1,0 +1,4 @@
+anthropic
+beautifulsoup4
+PyExifTool==0.5.6
+tk==0.1.0
