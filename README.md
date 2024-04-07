@@ -1,5 +1,7 @@
 ### Touch the grass
 
+*Toy idea for LangChain memory hackathon.*
+
 #### Motivation (ambitious)
 
 Endow powerful LLM agents with spatial memory using location history and access to notes, social circle, historical information to recreate memories for therapeutic, artistic or entertainment purpose.
