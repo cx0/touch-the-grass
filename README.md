@@ -2,11 +2,12 @@
 
 *Toy idea for LangChain memory hackathon.*
 
-#### Motivation (ambitious)
+<details><summary> Motivation (ambitious)</summary>
 
 Endow powerful LLM agents with spatial memory using location history and access to notes, social circle, historical information to recreate memories for therapeutic, artistic or entertainment purpose.
 
-<details><summary>pushing it...</summary>
+*pushing it...*
+
 You can plug in spatial memories of other people to activate "View As" type of experiences.
 </details>
 
